@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+
+}
+
+.rating__text {
+  background-color: rgb(233, 233, 233);
+  margin-left: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 5px;
+  font-weight: 300;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.products {
+  width: 100%;
+
+  height: 100% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.products__image {
+  width: 600px
+}
